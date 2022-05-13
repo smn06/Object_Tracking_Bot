@@ -1,0 +1,38 @@
+person
+bicycle
+car
+motorcycle
+airplane
+bus
+train
+truck
+boat
+sheep
+lephant
+bear
+zebra
+giraffe
+backpack
+umbrella
+handbag
+tiefboard
+tennis racket
+bottle
+wine glass
+cup
+fork
+knife
+spoon
+bowl
+broccoli
+carrot
+hot dog
+pizza
+donut
+cake
+mouse
+remote
+keyboard
+microwave
+oven
+
