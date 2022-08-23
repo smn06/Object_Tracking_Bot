@@ -1,1 +1,1 @@
-# Object_Tracking_Bot
+Fully autonomous object following robot made using OpenCV, Raspberry PI, DC Motors, Motor Drivers
